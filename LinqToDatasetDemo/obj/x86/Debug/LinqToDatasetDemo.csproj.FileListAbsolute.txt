@@ -1,0 +1,14 @@
+E:\R&DFolder\WindowApplication\LinqToDatasetDemo\LinqToDatasetDemo\bin\Debug\LinqToDatasetDemo.exe
+E:\R&DFolder\WindowApplication\LinqToDatasetDemo\LinqToDatasetDemo\bin\Debug\LinqToDatasetDemo.pdb
+E:\R&DFolder\WindowApplication\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\R&DFolder\WindowApplication\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\LinqToDatasetDemo.exe
+E:\R&DFolder\WindowApplication\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\LinqToDatasetDemo.pdb
+D:\MyNewArticle\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\LinqToDatasetDemo.exe
+D:\MyNewArticle\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\LinqToDatasetDemo.pdb
+D:\MyNewArticle\LinqToDatasetDemo\LinqToDatasetDemo\bin\Debug\LinqToDatasetDemo.exe
+D:\MyNewArticle\LinqToDatasetDemo\LinqToDatasetDemo\bin\Debug\LinqToDatasetDemo.pdb
+F:\LinqToDatasetDemo\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\LinqToDatasetDemo.exe
+F:\LinqToDatasetDemo\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\LinqToDatasetDemo.pdb
+F:\LinqToDatasetDemo\LinqToDatasetDemo\LinqToDatasetDemo\bin\Debug\LinqToDatasetDemo.exe
+F:\LinqToDatasetDemo\LinqToDatasetDemo\LinqToDatasetDemo\bin\Debug\LinqToDatasetDemo.pdb
+F:\LinqToDatasetDemo\LinqToDatasetDemo\LinqToDatasetDemo\obj\x86\Debug\ResolveAssemblyReference.cache
